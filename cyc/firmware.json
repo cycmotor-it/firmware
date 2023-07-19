@@ -1,0 +1,14 @@
+{
+  "Photon": {
+    "latest": "20230629",
+    "url": "X6P-181-OQC-230629-PHN.bin"
+  },
+  "X1 PRO": {
+    "latest": "20230306",
+    "url": "X6-181-OQC-230306-PRO.bin"
+  },
+  "X1 Stealth": {
+    "latest": "20230306",
+    "url": "X6-181-OQC-230306-STL.bin"
+  }
+}
