@@ -13,5 +13,10 @@
     "latest": "20230306",
     "url": "X6-181-OQC-230306-STL.bin",
     "md5": "2541bf11c9df488aeab8681f4c880958"
+  },
+  "X12": {
+    "latest": "20231221RS",
+    "url": "X12-RS-PRO4-231221.bin",
+    "md5": "7c8a3f823aac377c0b1bceec2861e9c6"
   }
 }
