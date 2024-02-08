@@ -1,0 +1,27 @@
+{
+  "Photon": {
+    "latest": "20230629",
+    "url": "X6P-181-OQC-230629-PHN.bin",
+    "md5": "ac2c3f783246ee956a40147222c968a4"
+  },
+  "X6 - X1 Pro": {
+    "latest": "20230306",
+    "url": "X6-181-OQC-230306-PRO.bin",
+    "md5": "7a0cea5db733be85de2604342c285e27"
+  },
+  "X6 - X1 Stealth": {
+    "latest": "20230306",
+    "url": "X6-181-OQC-230306-STL.bin",
+    "md5": "2541bf11c9df488aeab8681f4c880958"
+  },
+  "X12 Pro Gen 4": {
+    "latest": "20240110",
+    "url": "X12-TEST-PRO4-240110.bin",
+    "md5": "bbcfcb14fcae68e26d84ee1ec45cf03c"
+  },
+  "X12 Pro Gen 3": {
+    "latest": "20240110",
+    "url": "X12-TEST-PRO3-240110.bin",
+    "md5": "024bc69ac9380859fca54c3ef9b3844d"
+  }
+}
