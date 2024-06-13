@@ -2,26 +2,71 @@
   "Photon": {
     "latest": "20240215",
     "url": "X6P-181-OQC-240215-PHN.bin",
-    "md5": "4389c60eb642fa550073130de9a053e7"
+    "md5": "4389c60eb642fa550073130de9a053e7",
+    "Normal": {
+      "latest": "20240215",
+      "url": "X6P-181-OQC-240215-PHN.bin",
+      "md5": "4389c60eb642fa550073130de9a053e7"
+    },
+    "CO": {
+      "latest": "20240314",
+      "url": "X6P-181-CO-240314-PHN.bin",
+      "md5": "903C75EF1730E9A13C384B73FA7D05DD"
+    },
+    "JP": {
+      "latest": "20240305",
+      "url": "X6P-181-JAPAN-240305-PHN.bin",
+      "md5": "BF11EF46EC7BED82206D908F7A9874CA"
+    },
+    "EP": {
+      "latest": "20240415",
+      "url": "X6P-181-EPAC-240415-PHN.bin",
+      "md5": "71861895146AD4D5F0F3AE4D3BACBFE0"
+    }
   },
   "X6 - X1 Pro": {
     "latest": "20230306",
     "url": "X6-181-OQC-230306-PRO.bin",
-    "md5": "7a0cea5db733be85de2604342c285e27"
+    "md5": "7a0cea5db733be85de2604342c285e27",
+    "Normal": {
+      "latest": "20230306",
+      "url": "X6-181-OQC-230306-PRO.bin",
+      "md5": "7a0cea5db733be85de2604342c285e27"
+    }
   },
   "X6 - X1 Stealth": {
     "latest": "20230306",
     "url": "X6-181-OQC-230306-STL.bin",
-    "md5": "2541bf11c9df488aeab8681f4c880958"
+    "md5": "2541bf11c9df488aeab8681f4c880958",
+    "Normal": {
+      "latest": "20230306",
+      "url": "X6-181-OQC-230306-STL.bin",
+      "md5": "2541bf11c9df488aeab8681f4c880958"
+    }
   },
   "X12 Pro Gen 4": {
     "latest": "20240110",
     "url": "X12-TEST-PRO4-240110.bin",
-    "md5": "bbcfcb14fcae68e26d84ee1ec45cf03c"
+    "md5": "bbcfcb14fcae68e26d84ee1ec45cf03c",
+    "Normal": {
+      "latest": "20240110",
+      "url": "X12-TEST-PRO4-240110.bin",
+      "md5": "bbcfcb14fcae68e26d84ee1ec45cf03c"
+    },
+    "RS": {
+      "latest": "20231221",
+      "url": "X12-RS-PRO4-231221.bin",
+      "md5": "7C8A3F823AAC377C0B1BCEEC2861E9C6"
+    }
   },
   "X12 Pro Gen 3": {
     "latest": "20240110",
     "url": "X12-TEST-PRO3-240110.bin",
-    "md5": "024bc69ac9380859fca54c3ef9b3844d"
+    "md5": "024bc69ac9380859fca54c3ef9b3844d",
+    "Normal": {
+      "latest": "20240110",
+      "url": "X12-TEST-PRO3-240110.bin",
+      "md5": "024bc69ac9380859fca54c3ef9b3844d"
+    }
   }
 }
