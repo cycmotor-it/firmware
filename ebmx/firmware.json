@@ -1,20 +1,20 @@
 {
   "X-9000": {
-    "latest": "20240202",
-    "latest_B": "20240202B",
-    "url": "X-9000-OQC-SURRON-240202S.bin",
-    "url_B": "X-9000B-OQC-SURRON-240202S.bin",
-    "md5": "8f2a47565a426347ec642c79f92890b9",
-    "md5_B": "eb26bf8cb4db3a5f066df3edfc0ea26d",
+    "latest": "20240611",
+    "latest_B": "20240611B",
+    "url": "X-9000-OQC-SURRON-240611S.bin",
+    "url_B": "X-9000B-OQC-SURRON-240611S.bin",
+    "md5": "8ddac637a9c61658b495586677336be1",
+    "md5_B": "8f5f6f1960bfcc8299f6d1c545b8edcd",
     "Normal": {
-      "latest": "20240202",
-      "url": "X-9000-OQC-SURRON-240202S.bin",
-      "md5": "8f2a47565a426347ec642c79f92890b9"
+      "latest": "20240611",
+      "url": "X-9000-OQC-SURRON-240611S.bin",
+      "md5": "8ddac637a9c61658b495586677336be1"
     },
     "B": {
-      "latest": "20240202",
-      "url": "X-9000B-OQC-SURRON-240202S.bin",
-      "md5": "eb26bf8cb4db3a5f066df3edfc0ea26d"
+      "latest": "20240611",
+      "url": "X-9000B-OQC-SURRON-240611S.bin",
+      "md5": "8f5f6f1960bfcc8299f6d1c545b8edcd"
     }
   }
 }
