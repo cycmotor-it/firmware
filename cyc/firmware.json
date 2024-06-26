@@ -45,28 +45,28 @@
     }
   },
   "X12 Pro Gen 4": {
-    "latest": "20240614",
-    "url": "X12-181-TEST-240614-PRO4.bin",
-    "md5": "86beac4c51f1ea1f1e08c917bb4c757e",
+    "latest": "20240624",
+    "url": "X12-181-OQC-240624-PRO4.bin",
+    "md5": "72acf2ee6fd19f5b492c2f3353fff79f",
     "Normal": {
-      "latest": "20240614",
-      "url": "X12-181-TEST-240614-PRO4.bin",
-      "md5": "86beac4c51f1ea1f1e08c917bb4c757e"
+      "latest": "20240624",
+      "url": "X12-181-OQC-240624-PRO4.bin",
+      "md5": "72acf2ee6fd19f5b492c2f3353fff79f"
     },
     "RS": {
-      "latest": "20240621",
-      "url": "X12-181-RS-240621-PRO4.bin",
-      "md5": "456f85f6e10f5127e1dbf33ae62eedf5"
+      "latest": "20240624",
+      "url": "X12-181-RS-240624-PRO4.bin",
+      "md5": "ca8f7a5f35fef698801e02f2d1f6780d"
     }
   },
   "X12 Pro Gen 3": {
-    "latest": "20240614",
-    "url": "X12-181-TEST-240614-PRO3.bin",
-    "md5": "2d287ccbb46f32ebbea4Bac406b7e247",
+    "latest": "20240624",
+    "url": "X12-181-OQC-240624-PRO3.bin",
+    "md5": "537964eb7fdce60716bd691dab5f86c6",
     "Normal": {
-      "latest": "20240614",
-      "url": "X12-181-TEST-240614-PRO3.bin",
-      "md5": "2d287ccbb46f32ebbea4bac406b7e247"
+      "latest": "20240624",
+      "url": "X12-181-OQC-240624-PRO3.bin",
+      "md5": "537964eb7fdce60716bd691dab5f86c6"
     }
   }
 }
