@@ -1,12 +1,12 @@
 {
   "Photon": {
-    "latest": "20240215",
-    "url": "X6P-181-OQC-240215-PHN.bin",
-    "md5": "4389c60eb642fa550073130de9a053e7",
+    "latest": "20240614",
+    "url": "X6P-181-OQC-240614-PHN.bin",
+    "md5": "b52c85abb70a0d7e762a13269f69d107",
     "Normal": {
-      "latest": "20240215",
-      "url": "X6P-181-OQC-240215-PHN.bin",
-      "md5": "4389c60eb642fa550073130de9a053e7"
+      "latest": "20240614",
+      "url": "X6P-181-OQC-240614-PHN.bin",
+      "md5": "b52c85abb70a0d7e762a13269f69d107"
     },
     "CO": {
       "latest": "20240314",
@@ -25,23 +25,23 @@
     }
   },
   "X6 - X1 Pro": {
-    "latest": "20230306",
-    "url": "X6-181-OQC-230306-PRO.bin",
-    "md5": "7a0cea5db733be85de2604342c285e27",
+    "latest": "20240614",
+    "url": "X6-181-OQC-240614-PRO.bin",
+    "md5": "3f3d3918b54942aef3c1ddd2231cca5b",
     "Normal": {
-      "latest": "20230306",
-      "url": "X6-181-OQC-230306-PRO.bin",
-      "md5": "7a0cea5db733be85de2604342c285e27"
+      "latest": "20240614",
+      "url": "X6-181-OQC-240614-PRO.bin",
+      "md5": "3f3d3918b54942aef3c1ddd2231cca5b"
     }
   },
   "X6 - X1 Stealth": {
-    "latest": "20230306",
-    "url": "X6-181-OQC-230306-STL.bin",
-    "md5": "2541bf11c9df488aeab8681f4c880958",
+    "latest": "20240614",
+    "url": "X6-181-OQC-240614-STL.bin",
+    "md5": "584db8e35ee5f60ae8a9cfa26fadbc63",
     "Normal": {
-      "latest": "20230306",
-      "url": "X6-181-OQC-230306-STL.bin",
-      "md5": "2541bf11c9df488aeab8681f4c880958"
+      "latest": "20240614",
+      "url": "X6-181-OQC-240614-STL.bin",
+      "md5": "584db8e35ee5f60ae8a9cfa26fadbc63"
     }
   },
   "X12 Pro Gen 4": {
