@@ -1,14 +1,14 @@
 {
   "X-9000": {
     "Normal": {
-      "latest": "20240703",
-      "url": "X-9000-OQC-SURRON-240703S.bin",
-      "md5": "33bb00b2e112525565e2b027f754784c"
+      "latest": "20240710",
+      "url": "X-9000-OQC-SURRON-240710S.bin",
+      "md5": "1ec7c9ea675836290717e725ed10930e"
     },
     "B": {
-      "latest": "20240703",
-      "url": "X-9000B-OQC-SURRON-240703S.bin",
-      "md5": "659be7609c744e919b30c674c243d698"
+      "latest": "20240710",
+      "url": "X-9000B-OQC-SURRON-240710S.bin",
+      "md5": "13315c39063f92245e123281324199d4"
     }
   }
 }
