@@ -1,9 +1,9 @@
 {
   "Photon": {
     "Normal": {
-      "latest": "20240614",
-      "url": "X6P-181-OQC-240614-PHN.bin",
-      "md5": "b52c85abb70a0d7e762a13269f69d107"
+      "latest": "20240717",
+      "url": "X6P-181-OQC-240717-PHN.bin",
+      "md5": "96ec8fc7431cd2fef7b95634a82533cd"
     },
     "CO": {
       "latest": "20240314",
