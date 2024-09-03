@@ -1,9 +1,9 @@
 {
   "X-9000": {
     "Normal": {
-      "latest": "20240710",
-      "url": "X-9000-OQC-SURRON-240710S.bin",
-      "md5": "1ec7c9ea675836290717e725ed10930e"
+      "latest": "20240830",
+      "url": "X-9000-OQC-SURRON-240830SV2.bin",
+      "md5": "101afd16b703f96a9713f7b426c7e608"
     },
     "B": {
       "latest": "20240830",
